@@ -1,4 +1,4 @@
 
 (executable
  (name camstreamer)
- (libraries bigarray ffmpeg))
+ (libraries bigarray ffmpeg opium))
